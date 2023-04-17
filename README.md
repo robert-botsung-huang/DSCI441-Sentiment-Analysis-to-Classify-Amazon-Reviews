@@ -1,5 +1,4 @@
-# DSCI441-Project
-# Topic: Sentiment Analysis to Classify Amazon Reviews
+# DSCI441-Sentiment Analysis to Classify Amazon Reviews
 # Introduction
 My aim is to perform a sentiment analysis of product reviews written by online users from Amazon. The textual review data comes with numerical rating data, ranging from 1 to 5 (1: most negative, 5: most positive). This numerical indicator will be used as labels that represent the sentiment of the review text. Thus, this problem will be viewed as a multi-classification process and we seek to predict the sentiment scale of the user reviews based on machine learning classifiers and NLP algorithms.
 # Data Source
